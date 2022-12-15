@@ -6,3 +6,6 @@
 
 const string1 = "Hello";
 const string2 = "World";
+objectValue = string1 + " " + string2;
+var myObject = {objectValue};
+console.log(myObject);
